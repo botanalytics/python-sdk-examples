@@ -6,7 +6,7 @@
 
 ### Getting Started
 
-* Follow the steps defined in the sample's [README](/rasa/README.md).
+* Follow the steps defined in the sample's [README](/rasa/helpdesk-assistant/README.md).
 * Create a Botanalytics project, add Rasa channel.
 * Configure custom event broker within your `endpoints.yml`.
 * Set type as `botanalytics.rasa.Rasa` in `endpoints.yml` under event broker.

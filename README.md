@@ -16,6 +16,6 @@
 # endpoints.yml file example
 event_broker:
   type: botanalytics.rasa.Rasa
-  api_token: `BA_API_KEY`
+  api_key: `BA_API_KEY`
   debug: true
 ```
